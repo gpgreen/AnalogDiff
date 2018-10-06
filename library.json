@@ -1,0 +1,20 @@
+{
+  "name": "AnalogDiff",
+  "keywords": "analog, difference",
+  "description": "AnalogDiff is used to read differential analog to digital conversions on the atmega.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpgreen/AnalogDiff.git"
+  },
+  "authors": [{
+    "name": "Greg Green",
+    "url": "http://www.bit-builder.com/about/",
+    "maintainer": true
+  }],
+  "frameworks": [
+    "arduino"
+  ],
+  "platforms": [
+    "atmelavr"
+  ]
+}
