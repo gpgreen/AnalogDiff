@@ -1,7 +1,7 @@
 {
   "name": "AnalogDiff",
   "keywords": "analog, difference",
-  "description": "AnalogDiff is used to read differential analog to digital conversions on the atmega.",
+  "description": "AnalogDiff is used to read differential analog to digital conversions on the atmega644.",
   "repository": {
     "type": "git",
     "url": "https://github.com/gpgreen/AnalogDiff.git"
